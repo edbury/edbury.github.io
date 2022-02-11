@@ -38,7 +38,7 @@
     <meta content="{{ site.url }}/about/" property="article:author">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital@0;1&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     {%- if page.title -%}
     <meta content="{{ page.title }}" property="og:title">
     <meta content="article" property="og:type">
@@ -54,8 +54,6 @@
     <link rel="apple-touch-icon" href="/assets/img/profile.png">
     <link rel="icon" href="/assets/img/favicon.png" type="image/png" sizes="16x16" />
     <link href="/assets/css/style.css" rel="stylesheet" media="all" class="default" />
-    <link href="/assets/css/main.css" rel="stylesheet" media="all" class="default" />
-    <link href="/assets/css/Util.css" rel="stylesheet" media="all" class="default" />
     <link href="/assets/css/vendor/Katex.css" rel="stylesheet" media="all" class="default" />
 
     <!--[if IE]>
@@ -118,7 +116,7 @@
                 </blockquote>
                 <figcaption class="highlight--caption">
                   <cite class="highlight--cite">{{page.title}}</cite>
-                  <a class="highlight--page" href="#{{highlight_target}}"># {{highlight.page}}</a>
+                  <a class="highlight--page" href="#{{highlight_target}}">p. {{highlight.page}}</a>
                 </figcaption>
               </figure>
               {%- endfor -%}
@@ -174,6 +172,14 @@
         <div class="column is-half">
           {%- include FeedContent.html -%}
           {%- include Feed.html -%}
+          {%- include Footer.html -%}
+        </div>
+        {%- endif -%}
+
+        {%- if page.permalink == "/highlights" -%}
+        <div class="column is-half">
+          {%- include FeedContent.html -%}
+          {%- include FeedHighlights.html -%}
           {%- include Footer.html -%}
         </div>
         {%- endif -%}

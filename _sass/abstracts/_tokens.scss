@@ -1,4 +1,5 @@
 :root {
+  // Color Palette
   --dark0_hard: #1d2021;
   --dark0: #282828;
   --dark0_soft: #32302f;
@@ -43,4 +44,16 @@
   --faded_purple: #8f3f71;
   --faded_aqua: #427b58;
   --faded_orange: #af3a03;
+
+  // Colors
+  --background-color-base: var(--dark0_hard);
+  --text-color-body: var(--light0_hard);
+
+  // Type
+  --primary-font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+  --secondary-font-family: 'Gentium Book Basic', Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+
+  --base-font-size: 16px;
+  --max-line-length: 33rem;
 }
+

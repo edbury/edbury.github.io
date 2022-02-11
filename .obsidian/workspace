@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_highlights/Dune.md",
+            "file": "_notes/Public/Hidden Note.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_highlights/Dune.md",
+                "file": "_notes/Public/Hidden Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_highlights/Dune.md"
+                "file": "_notes/Public/Hidden Note.md"
               }
             }
           }
@@ -99,8 +99,8 @@
   },
   "active": "1f28d0443d312f32",
   "lastOpenFiles": [
-    "_highlights/Dune.md",
     "_notes/Public/Hidden Note.md",
+    "_highlights/Dune.md",
     "_meta/templates/highlights.md",
     "daily/2022-02-10.md",
     "202112281422 what we owe ourselves.md",
