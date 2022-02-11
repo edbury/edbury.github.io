@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "bdd86a764dadffa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f28d0443d312f32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_highlights/Dune.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78a916e29048c831",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc20b479603c1007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a32bbba70849ad30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa14a890fd94554f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "247007bbc7c66cbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "70bb95434733885d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "835c07fcc2f75481",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_highlights/Dune.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f708111e5854b6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_highlights/Dune.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1f28d0443d312f32",
+  "lastOpenFiles": [
+    "_highlights/Dune.md",
+    "_notes/Public/Hidden Note.md",
+    "_meta/templates/highlights.md",
+    "daily/2022-02-10.md",
+    "202112281422 what we owe ourselves.md",
+    "Screen Shot 2022-02-09 at 9.46.41 AM.png",
+    "202104191847 something new.md",
+    "2021-05-18.md",
+    "2021-04-19.md",
+    "daily/2022-02-09.md"
+  ]
+}
