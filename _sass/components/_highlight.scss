@@ -1,0 +1,55 @@
+.highlight--book {
+  display: grid;
+  grid-gap: var(--space-l);
+  grid-template-columns: 0.5fr 1fr;
+}
+
+.highlight {
+  max-width: var(--max-line-length);
+  margin: 0;
+  padding: 0;
+
+  &:not(:last-child) {
+    margin-block-end: 1.5rem;
+  }
+
+  &:target {
+    span {
+      background-color: var(--dark4);
+    }
+  }
+}
+
+.highlight--cover {
+  max-width: calc(0.5 * var(--max-line-length));
+}
+
+.highlight--cover-caption {
+  @include visually-hidden;
+}
+
+.highlight--title {
+  margin-block-end: var(--space-m);
+}
+
+.highlight--author {
+  color: var(--light0-soft);
+  font-family: var(--secondary-font-family);
+  font-size: 0.93em;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.highlight--quote {
+  margin: 0;
+  padding: 0;
+}
+
+.highlight--cite {
+  @include visually-hidden;
+}
+
+.highlight--feed-title {
+  font-family: var(--secondary-font-family);
+  margin-block-end: var(--space-m);
+}

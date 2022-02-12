@@ -63,10 +63,9 @@
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
   </head>
 
-  <body>
+  <body class="body">
     {%- include Header.html -%}
-    <section class="section">
-      <div class="columns is-centered">
+    <main class="main">
         <!--- CASE 1 : Homepage-->
 
         {%- if page.permalink == "/" -%}
@@ -75,11 +74,8 @@
         {%- include Homepage.html -%}
         {%- else -%}
         <!--- Show Feed Part -->
-        <div class="column is-half">
           {%- include FeedContent.html -%}
           {%- include Feed.html -%}
-          {%- include Footer.html -%}
-        </div>
         {%- endif -%}
         {%- endif -%}
 
@@ -87,64 +83,50 @@
 
         {%- if page.content-type == "notes"
         or page.content-type == "post"  -%}
-        <div class="column is-three-fifths">
-          <main>
-            <div class="note-page-section">
               <h1>{{page.title}}</h1>
               {%- include Content.html -%}
               {%- include Backlinks.html -%}
-            </div>
-            {%- include Footer.html -%}
-          </main>
-        </div>
 
         {%- endif -%}
 
         {%- if page.content-type == "highlights" -%}
-        <div class="column is-three-fifths">
-          <main>
-            <div class="note-page-section">
+          {%- assign highlight-cover = page.title | prepend: "/assets/img/covers/" | append: ".jpg" -%}
+          <article class="highlight--book">
+            <figure class="highlight--cover">
+              <img src={{highlight-cover}} alt="Cover of {{page.title}}">
+            </figure>
+            <section class="highlight--main">
               <h1 class="highlight--title">{{page.title}}
                 <span class="highlight--author">{{page.author}}</span>
               </h1>
-              {%- include Content.html -%}
               {%- for highlight in page.highlights -%}
-              {%- assign highlight_target = highlight.text | truncatewords: 3 | downcase | url_encode | replace: "%20", "+" -%}
-              <figure class="highlight" id="{{highlight_target}}">
-                <blockquote class="highlight--quote">
-                  <span>{{highlight.text}}</span>
-                </blockquote>
-                <figcaption class="highlight--caption">
-                  <cite class="highlight--cite">{{page.title}}</cite>
-                  <a class="highlight--page" href="#{{highlight_target}}">p. {{highlight.page}}</a>
-                </figcaption>
-              </figure>
+                {%- assign highlight-target = highlight.text | truncatewords: 3 | downcase | url_encode | replace: "%20", "+" -%}
+                <figure class="highlight" id="{{highlight-target}}">
+                  <blockquote class="highlight--quote">
+                    <span>{{highlight.text}}</span>
+                  </blockquote>
+                  <figcaption class="highlight--caption">
+                    <cite class="highlight--cite">{{page.title}}</cite>
+                    <a class="highlight--page" href="#{{highlight-target}}">p. {{highlight.page}}</a>
+                  </figcaption>
+                </figure>
               {%- endfor -%}
               {%- include Backlinks.html -%}
-            </div>
-            {%- include Footer.html -%}
-          </main>
-        </div>
-
+            </section>
+          </article>
         {%- endif -%}
 
         <!--- CASE 3 : Static Page -->
 
         {%- if page.content-type == "eg" -%}
-        <div class="column is-half">
-          <main>
             <h1>{{page.title}}</h1>
             {%- include Content.html -%}
-            {%- include Footer.html -%}
 
-          </main>
-        </div>
         {%- endif -%}
 
         <!--- CASE 4 :  Blog Listing page -->
 
         {%- if page.permalink == "/posts" -%}
-        <div class="column is-half">
           <h1>{{page.title}}</h1>
           <div class="block">
             {% for item in site.posts %}
@@ -162,29 +144,20 @@
             </div>
             {%- endfor -%}
           </div>
-          {%- include Footer.html -%}
-        </div>
         {%- endif -%}
 
         <!--- CASE 5 :  Notes Listing page -->
 
         {%- if page.permalink == "/notes" -%}
-        <div class="column is-half">
           {%- include FeedContent.html -%}
           {%- include Feed.html -%}
-          {%- include Footer.html -%}
-        </div>
         {%- endif -%}
 
         {%- if page.permalink == "/highlights" -%}
-        <div class="column is-half">
-          {%- include FeedContent.html -%}
           {%- include FeedHighlights.html -%}
-          {%- include Footer.html -%}
-        </div>
         {%- endif -%}
 
-      </div>
-    </section>
+    </main>
+    {%- include Footer.html -%}
   </body>
 </html>
