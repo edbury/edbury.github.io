@@ -7,12 +7,8 @@
         "id": "1f28d0443d312f32",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_highlights/Dune.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_highlights/Dune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_highlights/Dune.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -99,15 +92,15 @@
   },
   "active": "1f28d0443d312f32",
   "lastOpenFiles": [
+    "_notes/Public/Hidden Note.md",
     "_highlights/Dune.md",
-    "README.md",
-    "202202121408.md",
-    "_backlog/202105181206 Collective Efficacy.md",
-    "_backlog/202105051812 PSYCHX176-049 Discussion 1.2 Strategies.md",
-    "_backlog/202104262244 ppct - time.md",
-    "_backlog/202104262203 PSYCHX140-046 Assignment 1.md",
-    "_backlog/202104192003 Ged, death, & the self.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Hidden Note.md"
+    "_meta/templates/highlights.md",
+    "daily/2022-02-10.md",
+    "202112281422 what we owe ourselves.md",
+    "Screen Shot 2022-02-09 at 9.46.41 AM.png",
+    "202104191847 something new.md",
+    "2021-05-18.md",
+    "2021-04-19.md",
+    "daily/2022-02-09.md"
   ]
 }
