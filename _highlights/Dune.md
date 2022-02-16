@@ -19,4 +19,8 @@ highlights:
     text: "Any road followed precisely to its end leads precisely nowhere. Climb the mountain just a little bit to test that it's a mountain. From the top of the mountain, you cannot see the mountain."
   - page: "116-117"
     text: "Please permit the room to convey a lesson we learned from the same teachers: the proximity of a desirable thing tempts one to overindulgence."
+  - page: "141"
+    text: "Most of the Houses have grown fat by taking few risks. One cannot truly blame them for this; one can only despise them."
+  - page: "166"
+    text: "There is probably no more terrible instant of enlightenment than the one in which you discover your father is a man--with human flesh."
 ---
