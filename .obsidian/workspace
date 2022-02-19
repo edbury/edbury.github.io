@@ -9,14 +9,14 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-02-15.md",
+            "file": "_recipes/Omaha Yakisoba.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "9d10687db0d51eb1",
+        "id": "41d1c340c0c9d560",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-02-15.md",
+                "file": "_recipes/Omaha Yakisoba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-02-15.md"
+                "file": "_recipes/Omaha Yakisoba.md"
               }
             }
           }
@@ -111,15 +111,15 @@
   },
   "active": "1f28d0443d312f32",
   "lastOpenFiles": [
-    "daily/2022-02-15.md",
+    "_recipes/Omaha Yakisoba.md",
     "_highlights/Dune.md",
+    "daily/2022-02-17.md",
     "daily/2022-02-16.md",
+    "daily/2022-02-15.md",
     "_notes/Public/Hidden Note.md",
     "_meta/templates/highlights.md",
     "daily/2022-02-10.md",
     "202112281422 what we owe ourselves.md",
-    "Screen Shot 2022-02-09 at 9.46.41 AM.png",
-    "202104191847 something new.md",
-    "2021-05-18.md"
+    "Screen Shot 2022-02-09 at 9.46.41 AM.png"
   ]
 }

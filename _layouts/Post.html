@@ -103,7 +103,7 @@
                 {%- assign highlight-target = highlight.text | truncatewords: 3 | downcase | url_encode | replace: "%20", "+" -%}
                 <figure class="highlight" id="{{highlight-target}}">
                   <blockquote class="highlight--quote">
-                    <span>{{highlight.text}}</span>
+                    <span>{{highlight.text | markdownify}}</span>
                   </blockquote>
                   <figcaption class="highlight--caption">
                     <cite class="highlight--cite">{{page.title}}</cite>

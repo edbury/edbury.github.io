@@ -23,4 +23,14 @@ highlights:
     text: "Most of the Houses have grown fat by taking few risks. One cannot truly blame them for this; one can only despise them."
   - page: "166"
     text: "There is probably no more terrible instant of enlightenment than the one in which you discover your father is a man--with human flesh."
+  - page: "225"
+    text: "Growth is limited by that necessity which is present in the least amount. And, naturally, the least favorable condition controls the growth rate."
+  - page: "233"
+    text: 'Jessica heard the venom beneath his tone, spoke sweetly: "When strangers meet, great allowance should be made for differences of custom and training."'
+  - page: "260"
+    text: "The *tooth*, Duke Leto Atreides. You will remember the tooth."
+  - page: "263"
+    text: "There should be a science of discontent. People need hard times and oppression to develop psychic muscles."
+  - page: "270"
+    text: "He had been practicing the awareness-breathing, calming his mind, listening to their captors. The deaf one posed a problem, but Paul contained his despair. The mind-calming Bene Gesserit regimen his mother had taught him kept him poised, ready to expand any opportunity."
 ---
