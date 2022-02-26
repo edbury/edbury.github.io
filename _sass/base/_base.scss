@@ -69,3 +69,11 @@ h5 {
 h6 {
   font-size: var(--font-scale-0);
 }
+
+p {
+  margin-block-end: var(--space-m);
+
+  &:last-child {
+    margin-block-end: 0;
+  }
+}

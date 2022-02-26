@@ -59,6 +59,8 @@
   --font-scale-3: 1.424rem;
   --font-scale-4: 1.602rem;
   --font-scale-5: 1.802rem;
+  --font-size-body: var(--font-scale-0);
+  --font-size-caption: var(--font-scale-neg1);
 
   // Spacing
   --space-m: calc(1rem * var(--line-height-base));

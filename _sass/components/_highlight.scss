@@ -21,7 +21,10 @@
 }
 
 .highlight--cover {
+  position: sticky;
+  align-self: start;
   max-width: calc(0.5 * var(--max-line-length));
+  inset-block-start: var(--space-l);
 }
 
 .highlight--cover-caption {
@@ -47,6 +50,10 @@
 
 .highlight--cite {
   @include visually-hidden;
+}
+
+.highlight--page {
+  font-size: var(--font-size-caption);
 }
 
 .highlight--feed-title {
