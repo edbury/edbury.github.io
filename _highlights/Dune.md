@@ -71,6 +71,9 @@ highlights:
   - page: 415
     text: |
       "Cool your sorrow—we've the diversions for it; three things there are that ease the heart—water, green grass, and the beauty of woman."
+  - page: 466
+    text: |
+      The Fremen were supreme in that quality the ancients called "spannungsbogen"—which is the self-imposed delay between desire for a thing and the act of reaching out to grasp that thing.
   - page: 478
     text: There was danger, he felt, of overrunning himself, and he had to hold onto his awareness of the present, sensing the blurred deflection of experience, the flowing moment, the continual solidification of that-which-is into the perpetual-was.
   - page: 493
