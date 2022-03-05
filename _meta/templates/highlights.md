@@ -7,8 +7,6 @@ finished:
 location:
 tags: #highlight #book
 highlights:
-  page: "26"
-	text: "one big dog"
-  page: "25"
-	text: "two big dogs"
+  - page: 26
+	  text: |
 ---

@@ -60,3 +60,11 @@
   font-family: var(--secondary-font-family);
   margin-block-end: var(--space-m);
 }
+
+.highlight--feed {
+  display: grid;
+  grid-gap: var(--space-m);
+  grid-template-columns: repeat(auto-fill, minmax(var(--half-line-length), 1fr));
+  align-items: center;
+  justify-items: center;
+}

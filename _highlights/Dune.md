@@ -3,7 +3,7 @@ title: "Dune"
 subtitle:
 author: "Frank Herbert"
 created: 2022-02-10T14:10:52
-finished:
+finished: 2022-02-25T00:00:00
 location: "Oakland"
 tags: #highlight #book
 highlights:
