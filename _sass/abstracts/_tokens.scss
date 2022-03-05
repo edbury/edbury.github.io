@@ -60,10 +60,19 @@
   --font-scale-3: 1.424rem;
   --font-scale-4: 1.602rem;
   --font-scale-5: 1.802rem;
+  --font-scale-6: 2.027rem;
+  --font-scale-7: 2.281rem;
+  --font-scale-8: 2.566rem;
+  --font-scale-9: 2.887rem;
+  --font-scale-10: 3.247rem;
   --font-size-body: var(--font-scale-0);
   --font-size-caption: var(--font-scale-neg1);
 
   // Spacing
   --space-m: calc(1rem * var(--line-height-base));
   --space-l: calc(2 * var(--space-m));
+
+  // Transition
+  --transition-timing: ease-in-out;
+  --transition-duration: 100ms;
 }

@@ -12,6 +12,9 @@ body {
 }
 
 a {
+  transition-property: color;
+  transition-duration: var(--transition-duration);
+  transition-timing-function: var(--transition-timing);
   color: var(--link-text-color);
   font-size: inherit;
 }
