@@ -21,4 +21,21 @@ highlights:
   - page: 17
     text: |
       »Assya—my son—they say that thou art ill. But I say unto thee that thou art not ill, thou are but hungry. I calmed thy hunger when thou didst lie in the cradle, and I will do it again now.« And suddenly she bared her body to the waist, leant over towards me, and presented one of her breasts to my mouth. Terrified, I glanced at the enuch. »Drink,« he said in Russian, »it is thus that people greet each other in the mountains.« So I set to bravely and drank for the last time from the breast of my nurse.
+  - page: 19
+    text: |
+      So the princes have a special language of their own, a language that is understood only by the prince and his peers. This is the famous hunting language. It was contrived by the inhabitants of the knights' citadels, the princely palaces, and the robbers' strongholds. The secret of it is strictly guarded, and no outsider has hitherto succeeded in becoming familiar with it though it is current throughout the whole of the mountains and among all the members of the caste. It is said to be the language of an extinct line of knights; but only within the last few decades has it come to be known about at all, so secretive were the princes.
+  - page: 27
+    text: |
+      »Heroes live here; and they are heroes because they are without knowledge.«
+  - page: 33
+    text: |
+      I do not know whether there are still men alive in the mountains who know the secret. At least they keep quiet about it and trust nobody. They know what happens if the fields are discovered. The freedom of the mountains is gone for ever, and freedom is more precious to them than diamonds.
+  - page: 34
+    text: |
+      The Caucasian sets no store by wealth; the number of his relatives is of far greater concern to him. No money can protect him from blood vengeance, nor can it avenge a murder. When the Caucasian needs money or jewels, he simply rides down the mountains and plunders the cowardly people of the valley.
+  - page: 42
+    text: |
+      In the mountains the girls sing: »If thou comest back, craven, from a raid, I will drive thee out.«
+
+      »If thou diest like a hero in the raid, then I am glad,« sing the mothers. And the heroes themselves sing: »What honour and understanding have we if our loved ones drive us out?«
 ---
