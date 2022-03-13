@@ -38,4 +38,7 @@ highlights:
       In the mountains the girls sing: »If thou comest back, craven, from a raid, I will drive thee out.«
 
       »If thou diest like a hero in the raid, then I am glad,« sing the mothers. And the heroes themselves sing: »What honour and understanding have we if our loved ones drive us out?«
+  - page: 51
+    text: |
+      »A book must have a scent,« a master of perfumery once said to me. »Old, finely written theses must exhale an enlivening aroma, so that the exhausted reader shall not fall asleep at his work, but give thanks to the memory of the Master.«
 ---
