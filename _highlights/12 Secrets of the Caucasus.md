@@ -41,4 +41,10 @@ highlights:
   - page: 51
     text: |
       »A book must have a scent,« a master of perfumery once said to me. »Old, finely written theses must exhale an enlivening aroma, so that the exhausted reader shall not fall asleep at his work, but give thanks to the memory of the Master.«
+  - page: 59
+    text: |
+      The first principle of married life in the mountains is that »the problem of the mother-in-law does not exist.«
+  - page: 62
+    text: |
+      But the execution of the lover is not the worst revenge taken for the misdeed. The following method (it is also used under other circumstances) is much more terrible in effect. The offended man has to attack his enemy in the night, tie him up, and pull his trousers off his legs. He then hangs the trousers on the door of his house where everybody can see them. This is considered the most dreadful insult which can be offered to a man. It is impossible to wipe out, even with blood. The man whose trousers have been stolen must either commit suicide or immediately leave his home country, never to return. And even abroad he must adopt another name, and keep away from his fellow-country-men. Usually he will choose suicide in preference to exile.
 ---
