@@ -26,7 +26,8 @@ highlights:
       So the princes have a special language of their own, a language that is understood only by the prince and his peers. This is the famous hunting language. It was contrived by the inhabitants of the knights' citadels, the princely palaces, and the robbers' strongholds. The secret of it is strictly guarded, and no outsider has hitherto succeeded in becoming familiar with it though it is current throughout the whole of the mountains and among all the members of the caste. It is said to be the language of an extinct line of knights; but only within the last few decades has it come to be known about at all, so secretive were the princes.
   - page: 27
     text: |
-      »Heroes live here; and they are heroes because they are without knowledge.«
+      »Heroes live here; and they are heroes because they are without
+      knowledge.«
   - page: 33
     text: |
       I do not know whether there are still men alive in the mountains who know the secret. At least they keep quiet about it and trust nobody. They know what happens if the fields are discovered. The freedom of the mountains is gone for ever, and freedom is more precious to them than diamonds.
@@ -35,16 +36,41 @@ highlights:
       The Caucasian sets no store by wealth; the number of his relatives is of far greater concern to him. No money can protect him from blood vengeance, nor can it avenge a murder. When the Caucasian needs money or jewels, he simply rides down the mountains and plunders the cowardly people of the valley.
   - page: 42
     text: |
-      In the mountains the girls sing: »If thou comest back, craven, from a raid, I will drive thee out.«
+      In the mountains the girls sing: »If thou comest back, craven,
+      from a raid, I will drive thee out.«
 
-      »If thou diest like a hero in the raid, then I am glad,« sing the mothers. And the heroes themselves sing: »What honour and understanding have we if our loved ones drive us out?«
+      »If thou diest like a hero in the raid, then I am glad,« sing the
+      mothers. And the heroes themselves sing: »What honour and understanding have we if our loved ones drive us out?«
   - page: 51
     text: |
-      »A book must have a scent,« a master of perfumery once said to me. »Old, finely written theses must exhale an enlivening aroma, so that the exhausted reader shall not fall asleep at his work, but give thanks to the memory of the Master.«
+      »A book must have a scent,« a master of perfumery once said to
+      me. »Old, finely written theses must exhale an enlivening aroma, so that the exhausted reader shall not fall asleep at his work, but give thanks to the memory of the Master.«
   - page: 59
     text: |
-      The first principle of married life in the mountains is that »the problem of the mother-in-law does not exist.«
+      The first principle of married life in the mountains is that »the
+      problem of the mother-in-law does not exist.«
   - page: 62
     text: |
-      But the execution of the lover is not the worst revenge taken for the misdeed. The following method (it is also used under other circumstances) is much more terrible in effect. The offended man has to attack his enemy in the night, tie him up, and pull his trousers off his legs. He then hangs the trousers on the door of his house where everybody can see them. This is considered the most dreadful insult which can be offered to a man. It is impossible to wipe out, even with blood. The man whose trousers have been stolen must either commit suicide or immediately leave his home country, never to return. And even abroad he must adopt another name, and keep away from his fellow-country-men. Usually he will choose suicide in preference to exile.
+      But the execution of the lover is not the worst revenge taken for
+      the misdeed. The following method (it is also used under other circumstances) is much more terrible in effect. The offended man has to attack his enemy in the night, tie him up, and pull his trousers off his legs. He then hangs the trousers on the door of his house where everybody can see them. This is considered the most dreadful insult which can be offered to a man. It is impossible to wipe out, even with blood. The man whose trousers have been stolen must either commit suicide or immediately leave his home country, never to return. And even abroad he must adopt another name, and keep away from his fellow-country-men. Usually he will choose suicide in preference to exile.
+  - page: 77
+    text: |
+      Greeks and Romans, Arabs and Persians, Turks and Russians, and finally the Bolsheviks have conquered the Caucasus and introduced their laws. The people submitted to everything, promised to obey all laws, and to meet all taxes. One thing only they insisted should be left to them—their customs. Every conqueror and ruler has had to give in to this request; otherwise the land rose up and the mountains flowed with blood, and the resultant quarrel often lasted for centuries. In the end the conqueror always said to them: »Live together as you please.«
+
+      Thus the customs and laws of the fathers remained unaltered, and
+      among them the sacred obligation of the blood feud. Every conqueror tried to abolish it but always without success. The Caucasian can give up many things, but not revenge, even if it cost him his own head to attain it.
+  - page: 78
+    text: |
+      The law of *kanly*, the avenger's law, is perhaps more complicated than many European laws and harder to understand than any other paragraph of human jurisprudence.
+  - page: 84
+    text: |
+      When the best of the race go down upon their knees, then it is time to renounce the customs of one's fathers.
+  - page: 86
+    text: |
+      »The good qualities of the soul are formed in the mountains and only cleverness in the West.«
+  - page: 87
+    text: |
+      These ruins were formerly castles, are still to some extent castles even today, though they are falling apart with time; the inhabitants move to some other cliff, where they build a new citadel and forget all too soon the heroic deeds which haunt the old one. Men are quickly forgotten, and nowhere quicker than in the mountains where one hero follows another overnight
 ---
+
+dogs
