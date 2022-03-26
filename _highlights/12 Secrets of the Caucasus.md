@@ -70,7 +70,7 @@ highlights:
       »The good qualities of the soul are formed in the mountains and only cleverness in the West.«
   - page: 87
     text: |
-      These ruins were formerly castles, are still to some extent castles even today, though they are falling apart with time; the inhabitants move to some other cliff, where they build a new citadel and forget all too soon the heroic deeds which haunt the old one. Men are quickly forgotten, and nowhere quicker than in the mountains where one hero follows another overnight
+      These ruins were formerly castles, are still to some extent castles even today, though they are falling apart with time; the inhabitants move to some other cliff, where they build a new citadel and forget all too soon the heroic deeds which haunt the old one. Men are quickly forgotten, and nowhere quicker than in the mountains where one hero follows another overnight.
 ---
 
 dogs
