@@ -89,4 +89,19 @@ highlights:
   - page: 139
     text: |
       Such duels do not happen any more now. Poets, they say, are grown soft. They no longer know how to hate, and they have no sufficient faith in their talent, nor do they dare to let their lives depend upon the success of their poems.
+  - page: 150
+    text: |
+      After these two courses, the Jew hands his guest mutton fat, which is considered a special delicacy. It is impossible to describe the taste of this dish; only a fellow-sufferer can conceive of the self-control that must be exercised by the unprepared guest at this juncture.
+  - page: 156
+    text: |
+      »We need nothing new; we have already had everything that a people can have; and anything we may not have had is superfluous.«
+  - page: 158
+    text: |
+      In two more generations, the last of the Nogai Tatars, that most un-Caucasian of races, will have disappeared from the earth. Yet still they say: »We need nothing more; we have achieved everything that a people can achieve. And now God will tolerate us no longer.«
+  - page: 169
+    text: |
+      »Whoso thinks of the consequences will never be brave.«
+  - page: 182
+    text: |
+      According to mountain law, a man may cut off his wife's nose as a punishment when he catches her in flagrante delicto (which, be it here observed, is at least better than murdering her and being subsequently acquitted, as in Europe).
 ---
